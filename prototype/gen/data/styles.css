@@ -16,6 +16,8 @@
 }
 .button {
 }
+.image {
+}
 .heading_1 {
   font-family:'Arial Normal', 'Arial', sans-serif;
   font-weight:bold;
@@ -67,6 +69,14 @@
 .text_field {
   color:#000000;
   text-align:left;
+}
+.list_box {
+  color:#000000;
+  text-align:left;
+}
+.table_cell {
+}
+.menu_item {
 }
 .form_hint {
   color:#999999;
